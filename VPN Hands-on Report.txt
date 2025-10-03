@@ -1,0 +1,57 @@
+VPN Hands-on Report :
+
+Screenshots Documentation =
+
+i] Before VPN (Real IP):
+
+- Screenshot showing IP and location assigned by ISP (e.g., India, Andhra Pradesh) from whatismyipaddress.com
+
+
+ii] After VPN (VPN IP/Location):
+
+- Screenshot showing VPN-assigned IP and new location (e.g., Hong Kong Victoria) from ipleak.net
+
+
+iii] Encrypted Browsing Evidence (HTTPS/Google Redirect):
+
+- Screenshot of browser redirected to google.com.hk
+
+"https://" and Google Hong Kong homepage confirms traffic encryption and IP-based geographic redirection
+
+Example: [Your Screenshot: Google Hong Kong homepage, URL bar shows https and .hk domain]
+
+
+iv] Brief Summary :
+
+For this task, I configured and tested the Windscribe VPN client on my Windows laptop. I first recorded my real IP and geographic location using ipleak.net. Then I connected to the free Hong Kong VPN server in Windscribe, observed that my public IP changed to a Hong Kong address, and verified this with the same website.
+
+To ensure my browsing was encrypted, I navigated to Google, which redirected me to google.com.hk.
+The URL displayed "https://" indicating secure, encrypted communication.
+
+After completing the VPN tasks, I disconnected the VPN and confirmed my public IP returned to my real, local value and my web region reverted to India.
+
+
+v] VPN Benefits Observed :
+
+- Changes real IP/location to match chosen VPN server, hiding user’s original IP
+
+- Encrypts internet traffic, ensuring private browsing and secure connection (verified by HTTPS and region change)
+
+- Allows bypassing of regional content restrictions via server selection
+
+- Easy to connect/disconnect and verify status visually
+
+
+vi] VPN Limitations Noted :
+
+- Internet speed was slightly slower when VPN was ON compared to OFF
+
+- Free plan limits data usage and server availability
+
+- Some websites may restrict access or trigger additional security checks when a VPN is detected
+
+
+Conclusion :
+
+This exercise provided practical experience with setting up and verifying a VPN, observing privacy protection in action, and understanding the impact on speed and usability. The screenshots attached demonstrate successful completion of each step and provide visual evidence of the benefits of VPN technology in protecting user data and privacy.
+
