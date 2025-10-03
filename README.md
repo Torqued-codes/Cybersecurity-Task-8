@@ -34,9 +34,18 @@ This repository contains documentation and evidence for the practical VPN task u
   
 
   <img width="1919" height="987" alt="Image" src="https://github.com/user-attachments/assets/ee247271-cd1d-4720-9e43-43885267fd3b" />
-- VPN IP address/location: `screenshots/after_vpn_ip.jpg`
-- Encrypted browsing evidence: `screenshots/https_google_hk.jpg`
-- Real IP after disconnect: `screenshots/after_disconnect.jpg`
+
+
+  
+- VPN OFF :
+
+<img width="359" height="280" alt="Image" src="https://github.com/user-attachments/assets/276313bb-438c-449f-98eb-c16286ce62aa" />
+
+
+<img width="1906" height="943" alt="Image" src="https://github.com/user-attachments/assets/a1065413-893a-4336-b73e-7bf3fabae4af" />
+
+
+<img width="1313" height="428" alt="Image" src="https://github.com/user-attachments/assets/8a7465d7-5a92-4ed8-9f8c-03f37a2c6992" />
 
 ## v] Summary Report :
 
