@@ -18,7 +18,7 @@ This repository contains documentation and evidence for the practical VPN task u
 
 ## iv] Example Screenshots Preview :
 
-- VPN ON :
+# VPN ON :
 
   
   <img width="354" height="282" alt="Image" src="https://github.com/user-attachments/assets/e0ed4663-78a5-4027-95eb-33b8e591d749" />
@@ -37,7 +37,7 @@ This repository contains documentation and evidence for the practical VPN task u
 
 
   
-- VPN OFF :
+# VPN OFF :
 
 <img width="359" height="280" alt="Image" src="https://github.com/user-attachments/assets/276313bb-438c-449f-98eb-c16286ce62aa" />
 
